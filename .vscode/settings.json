@@ -1,4 +1,7 @@
 {
   "java.project.outputPath": "build",
-  "git.enableCommitSigning": true
+  "git.enableCommitSigning": true,
+  "java.project.sourcePaths": [
+    "src"
+  ]
 }
